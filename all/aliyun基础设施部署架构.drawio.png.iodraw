@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="CX-Amr8RngPW4TzrslS4">
-    <mxGraphModel dx="4529" dy="2662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3651" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
           <mxGeometry x="-370" y="270" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-177" value="prometheus" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=pod" parent="1" vertex="1">
-          <mxGeometry x="-275" y="270" width="50" height="48" as="geometry" />
+          <mxGeometry x="-270" y="270" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-178" value="ECI-0" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.virtual_application_server;fillColor=#2072B8;" parent="1" vertex="1">
           <mxGeometry x="-980" y="475" width="48" height="55" as="geometry" />
