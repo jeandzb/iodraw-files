@@ -85,8 +85,11 @@
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-32" value="active=pre" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="424" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NsCjm6Jyi2j5coeLQi_F-35" value="内部人员" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NsCjm6Jyi2j5coeLQi_F-35" value="ack-pre" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NsCjm6Jyi2j5coeLQi_F-36" value="ack-pre" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
