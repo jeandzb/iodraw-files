@@ -79,6 +79,9 @@
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-32" value="active=pre" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="424" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NsCjm6Jyi2j5coeLQi_F-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
