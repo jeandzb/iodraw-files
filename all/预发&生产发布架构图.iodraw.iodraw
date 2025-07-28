@@ -62,9 +62,6 @@
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-20" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NsCjm6Jyi2j5coeLQi_F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.533;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NsCjm6Jyi2j5coeLQi_F-20" target="NsCjm6Jyi2j5coeLQi_F-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NsCjm6Jyi2j5coeLQi_F-19" target="NsCjm6Jyi2j5coeLQi_F-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,6 +70,9 @@
         </mxCell>
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-25" value="内部人员" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NsCjm6Jyi2j5coeLQi_F-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NsCjm6Jyi2j5coeLQi_F-20" target="NsCjm6Jyi2j5coeLQi_F-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
