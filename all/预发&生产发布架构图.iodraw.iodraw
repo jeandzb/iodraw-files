@@ -42,9 +42,9 @@
           <mxGeometry x="400" y="620" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-16" value="pl-pre.alphesh.com" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="160" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NsCjm6Jyi2j5coeLQi_F-17" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NsCjm6Jyi2j5coeLQi_F-17" value="pl.alphesh.com" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="150" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
