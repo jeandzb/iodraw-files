@@ -48,13 +48,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-17" value="pl.alphesh.com" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="140" width="140" height="90" as="geometry" />
+          <mxGeometry x="527.5" y="140" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-18" value="active=prod" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="424" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-19" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
-          <mxGeometry x="561.5" width="37" height="50" as="geometry" />
+          <mxGeometry x="579" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NsCjm6Jyi2j5coeLQi_F-20" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="10" width="40" height="60" as="geometry" />
