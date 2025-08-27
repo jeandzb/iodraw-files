@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-206" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
-          <mxGeometry x="1371" y="-8" width="50" height="48" as="geometry" />
+          <mxGeometry x="731" y="-30" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-212" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
