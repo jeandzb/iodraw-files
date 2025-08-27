@@ -13,7 +13,7 @@
               <mxPoint x="320" y="-420" />
               <mxPoint x="-39" y="-420" />
             </Array>
-            <mxPoint x="320" y="-680" as="sourcePoint" />
+            <mxPoint x="320" y="-570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -113,7 +113,7 @@
         <mxCell id="WW_MnarFzPeoU13_2Imb-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0066CC;startArrow=classic;startFill=0;entryX=0.517;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" target="WW_MnarFzPeoU13_2Imb-80" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="549" y="-380" as="targetPoint" />
-            <mxPoint x="320" y="-680" as="sourcePoint" />
+            <mxPoint x="321" y="-580" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="321" y="-480" />
               <mxPoint x="549" y="-480" />
