@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WW_MnarFzPeoU13_2Imb-221" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="-120" width="2050" height="860" as="geometry" />
+          <mxGeometry x="-520" y="-120" width="1290" height="860" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;startArrow=none;startFill=0;strokeWidth=2;" parent="1" target="WW_MnarFzPeoU13_2Imb-72" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -23,7 +23,7 @@
           <mxGeometry x="-299" y="-360" width="520" height="200" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" parent="1" vertex="1">
-          <mxGeometry x="331" y="-40" width="1090" height="640" as="geometry" />
+          <mxGeometry x="331" y="-40" width="319" height="430" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-65" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="361" y="90" width="229" height="260" as="geometry" />
@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-206" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="120" width="50" height="48" as="geometry" />
+          <mxGeometry x="448.25" y="-40" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-212" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
