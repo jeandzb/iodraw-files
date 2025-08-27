@@ -161,9 +161,6 @@
         <mxCell id="WW_MnarFzPeoU13_2Imb-121" value="NAT防火墙" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;" parent="1" vertex="1">
           <mxGeometry x="538" y="-345" width="30.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-124" value="" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.branch;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-861" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="-8" width="650" height="640" as="geometry" />
         </mxCell>
@@ -264,6 +261,9 @@
             <mxPoint x="-1200" y="-260" as="sourcePoint" />
             <mxPoint x="-1140" y="-260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y_lX5Y7PeVp1gBBhUBE8-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
