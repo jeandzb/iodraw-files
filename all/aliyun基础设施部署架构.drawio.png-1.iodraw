@@ -161,6 +161,9 @@
         <mxCell id="y_lX5Y7PeVp1gBBhUBE8-4" value="other-api" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="-80" y="84.5" width="50" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="y_lX5Y7PeVp1gBBhUBE8-5" value="SLB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-120" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
