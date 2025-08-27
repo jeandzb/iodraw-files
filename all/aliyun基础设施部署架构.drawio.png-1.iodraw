@@ -114,6 +114,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="549" y="-380" as="targetPoint" />
             <mxPoint x="320" y="-680" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="321" y="-480" />
+              <mxPoint x="549" y="-480" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-206" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
