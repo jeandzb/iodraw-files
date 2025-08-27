@@ -168,12 +168,6 @@
             <mxPoint x="-409" y="-672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-216" value="外部进出：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-549" y="-644" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-217" value="内部进出：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-549" y="-604" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-218" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#0066CC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-469" y="-629.3199999999999" as="sourcePoint" />
