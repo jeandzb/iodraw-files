@@ -68,7 +68,7 @@
           <mxGeometry x="518.25" y="90" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-73" value="SLB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="171" y="-350" width="50" height="30" as="geometry" />
+          <mxGeometry x="171" y="-360" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-79" value="D-NAT" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="405" y="-260" width="120" height="80" as="geometry" />
