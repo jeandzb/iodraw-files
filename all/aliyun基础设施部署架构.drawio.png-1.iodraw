@@ -22,9 +22,6 @@
         <mxCell id="WW_MnarFzPeoU13_2Imb-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-299" y="-360" width="520" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;strokeWidth=2;" parent="1" source="WW_MnarFzPeoU13_2Imb-61" target="WW_MnarFzPeoU13_2Imb-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="731" y="-10" width="1090" height="640" as="geometry" />
         </mxCell>
@@ -195,14 +192,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="549" y="-380" as="targetPoint" />
             <mxPoint x="320" y="-680" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0000;strokeWidth=2;" parent="1" source="WW_MnarFzPeoU13_2Imb-79" target="WW_MnarFzPeoU13_2Imb-126" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;strokeWidth=2;" parent="1" source="WW_MnarFzPeoU13_2Imb-126" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-206" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
