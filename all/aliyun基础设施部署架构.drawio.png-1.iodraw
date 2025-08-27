@@ -259,11 +259,10 @@
         <mxCell id="WW_MnarFzPeoU13_2Imb-143" value="nacos" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
           <mxGeometry x="340" y="182" width="50" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6600CC;startArrow=classicThin;startFill=0;strokeWidth=2;" parent="1" source="WW_MnarFzPeoU13_2Imb-144" target="WW_MnarFzPeoU13_2Imb-201" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-144" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0066CC;" parent="1" vertex="1">
-          <mxGeometry x="-1250" y="-10" width="1090" height="640" as="geometry" />
+        <mxCell id="WW_MnarFzPeoU13_2Imb-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6600CC;startArrow=classicThin;startFill=0;strokeWidth=2;" parent="1" target="WW_MnarFzPeoU13_2Imb-201" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-705" y="630" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-145" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="445" width="670" height="120" as="geometry" />
@@ -415,13 +414,14 @@
             <mxPoint x="670" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;strokeWidth=2;" parent="1" source="WW_MnarFzPeoU13_2Imb-144" edge="1">
+        <mxCell id="WW_MnarFzPeoU13_2Imb-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#009900;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="-180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-705" y="-70" />
               <mxPoint x="671" y="-70" />
             </Array>
+            <mxPoint x="-705" y="-10" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-205" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" parent="1" vertex="1">
