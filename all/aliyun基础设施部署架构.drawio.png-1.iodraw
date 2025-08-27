@@ -171,10 +171,10 @@
           <mxGeometry x="-60" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-142" value="nginx" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="150" width="50" height="41" as="geometry" />
+          <mxGeometry x="-151.15" y="90" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-143" value="nacos" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="150" width="50" height="41" as="geometry" />
+          <mxGeometry x="-50" y="90" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;" parent="1" source="WW_MnarFzPeoU13_2Imb-187" target="WW_MnarFzPeoU13_2Imb-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
