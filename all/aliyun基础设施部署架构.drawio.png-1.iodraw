@@ -170,15 +170,6 @@
         <mxCell id="WW_MnarFzPeoU13_2Imb-131" value="proxy-node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-60" y="30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y_lX5Y7PeVp1gBBhUBE8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WW_MnarFzPeoU13_2Imb-134" target="WW_MnarFzPeoU13_2Imb-142">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-134" value="rocketmq" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="70" width="50" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-135" value="rabbitmq-test" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="70" width="48.78" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-142" value="nginx" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
           <mxGeometry x="-140" y="150" width="50" height="41" as="geometry" />
         </mxCell>
