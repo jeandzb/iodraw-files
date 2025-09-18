@@ -66,9 +66,6 @@
         <mxCell id="WW_MnarFzPeoU13_2Imb-120" value="&lt;font color=&quot;#000000&quot;&gt;CLB&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.proxy;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="43.99999999999997" y="-222.4" width="44.8" height="52.4" as="geometry" />
         </mxCell>
-        <mxCell id="WW_MnarFzPeoU13_2Imb-127" value="DMZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="307" y="-70" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="5" width="300" height="200" as="geometry" />
         </mxCell>
