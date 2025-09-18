@@ -35,7 +35,7 @@
           <mxGeometry x="-100" y="5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-142" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="69.5" width="50" height="41" as="geometry" />
+          <mxGeometry x="-142.35" y="42" width="50" height="41" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0000;strokeWidth=2;" parent="1" source="WW_MnarFzPeoU13_2Imb-187" target="WW_MnarFzPeoU13_2Imb-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="9K4X2xa5lF0pXg5fiXC--7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="-270" y="130" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="9K4X2xa5lF0pXg5fiXC--8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
+          <mxGeometry x="-135.2" y="130" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
