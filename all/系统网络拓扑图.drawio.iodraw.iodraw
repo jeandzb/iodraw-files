@@ -67,7 +67,7 @@
           <mxGeometry x="43.99999999999997" y="-222.4" width="44.8" height="52.4" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-127" value="DMZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="-30" width="50" height="30" as="geometry" />
+          <mxGeometry x="307" y="-70" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WW_MnarFzPeoU13_2Imb-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="5" width="300" height="200" as="geometry" />
