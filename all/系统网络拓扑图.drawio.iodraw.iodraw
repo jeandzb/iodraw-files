@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y_lX5Y7PeVp1gBBhUBE8-2" value="互联网" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="-740" width="330" height="180" as="geometry" />
+          <mxGeometry x="-160" y="-614" width="330" height="180" as="geometry" />
         </mxCell>
         <mxCell id="y_lX5Y7PeVp1gBBhUBE8-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" parent="1" vertex="1">
           <mxGeometry x="-260" y="69.5" width="50" height="41" as="geometry" />
