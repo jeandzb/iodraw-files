@@ -91,8 +91,8 @@
         <mxCell id="9K4X2xa5lF0pXg5fiXC--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="44" y="5" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9K4X2xa5lF0pXg5fiXC--3" value="proxy-node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="264" y="5" width="80" height="30" as="geometry" />
+        <mxCell id="9K4X2xa5lF0pXg5fiXC--3" value="服务节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9K4X2xa5lF0pXg5fiXC--4" value="proxy-server" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
           <mxGeometry x="254" y="69.5" width="50" height="41" as="geometry" />
