@@ -11,10 +11,16 @@
           <mxGeometry x="170" y="430" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-7" value="master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="60" height="60" as="geometry" />
+          <mxGeometry x="270" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-8" value="slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="60" height="60" as="geometry" />
+          <mxGeometry x="270" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wF_96pwVOdmaeo8gTULH-9" value="master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wF_96pwVOdmaeo8gTULH-10" value="slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
