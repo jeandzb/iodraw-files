@@ -73,8 +73,8 @@
         <mxCell id="wF_96pwVOdmaeo8gTULH-38" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="390" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-40" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_os" vertex="1" parent="1">
-          <mxGeometry x="389" y="180" width="49" height="50" as="geometry" />
+        <mxCell id="wF_96pwVOdmaeo8gTULH-41" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Device_Config.svg;" vertex="1" parent="1">
+          <mxGeometry x="386" y="190" width="44" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
