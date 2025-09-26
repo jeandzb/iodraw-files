@@ -40,7 +40,7 @@
         <mxCell id="wF_96pwVOdmaeo8gTULH-21" value="controller" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wF_96pwVOdmaeo8gTULH-22" value="nameserver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
