@@ -8,7 +8,7 @@
           <mxGeometry x="190" y="410" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="520" width="400" height="100" as="geometry" />
+          <mxGeometry x="190" y="660" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="830" width="400" height="210" as="geometry" />
@@ -44,16 +44,16 @@
           <mxGeometry x="540" y="830" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-22" value="nameserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="540" width="80" height="50" as="geometry" />
+          <mxGeometry x="230" y="680" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-29" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-34" value="nameserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="540" width="80" height="50" as="geometry" />
+          <mxGeometry x="340" y="680" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-35" value="nameserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="540" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="680" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-37" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="440" width="90" height="40" as="geometry" />
