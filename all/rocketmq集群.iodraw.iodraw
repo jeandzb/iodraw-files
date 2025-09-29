@@ -16,13 +16,13 @@
         <mxCell id="wF_96pwVOdmaeo8gTULH-1" value="master-0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="250" y="860" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-2" value="slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="wF_96pwVOdmaeo8gTULH-2" value="slave-0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="250" y="950" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wF_96pwVOdmaeo8gTULH-1" target="wF_96pwVOdmaeo8gTULH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-12" value="master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="wF_96pwVOdmaeo8gTULH-12" value="master-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="460" y="860" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-13" value="slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
