@@ -11,7 +11,7 @@
           <mxGeometry x="190" y="660" width="400" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="830" width="400" height="210" as="geometry" />
+          <mxGeometry x="200" y="830" width="390" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-1" value="master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="250" y="860" width="60" height="60" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-12" value="master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="350" y="860" width="60" height="60" as="geometry" />
+          <mxGeometry x="460" y="860" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-13" value="slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="350" y="950" width="60" height="60" as="geometry" />
+          <mxGeometry x="460" y="950" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wF_96pwVOdmaeo8gTULH-12" target="wF_96pwVOdmaeo8gTULH-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,10 +41,7 @@
           <mxGeometry x="220" y="520" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-34" value="nameserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="680" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-35" value="nameserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="680" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="670" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-37" value="proxy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="520" width="90" height="40" as="geometry" />
