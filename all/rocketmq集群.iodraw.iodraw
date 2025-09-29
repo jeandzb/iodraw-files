@@ -31,15 +31,6 @@
         <mxCell id="wF_96pwVOdmaeo8gTULH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wF_96pwVOdmaeo8gTULH-12" target="wF_96pwVOdmaeo8gTULH-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-15" value="master" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="450" y="860" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-16" value="slave" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="450" y="950" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wF_96pwVOdmaeo8gTULH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wF_96pwVOdmaeo8gTULH-15" target="wF_96pwVOdmaeo8gTULH-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-19" value="broker" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="830" width="60" height="30" as="geometry" />
         </mxCell>
