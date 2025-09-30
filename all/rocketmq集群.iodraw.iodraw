@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1tkgbyHN71c47mGyqVU-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-18">
+        <mxCell id="l1tkgbyHN71c47mGyqVU-19" value="主从切换" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-18">
           <mxGeometry x="0.0344" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -103,7 +103,7 @@
         <mxCell id="l1tkgbyHN71c47mGyqVU-13" value="数据持久化/pvc" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="1010" width="94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l1tkgbyHN71c47mGyqVU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wF_96pwVOdmaeo8gTULH-42">
+        <mxCell id="l1tkgbyHN71c47mGyqVU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="wF_96pwVOdmaeo8gTULH-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="420" as="targetPoint" />
           </mxGeometry>
