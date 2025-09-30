@@ -4,14 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l1tkgbyHN71c47mGyqVU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wF_96pwVOdmaeo8gTULH-39" target="wF_96pwVOdmaeo8gTULH-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="l1tkgbyHN71c47mGyqVU-14" value="负载均衡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-4">
-          <mxGeometry x="0.0333" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="560" width="400" height="120" as="geometry" />
         </mxCell>
@@ -81,19 +73,6 @@
         </mxCell>
         <mxCell id="l1tkgbyHN71c47mGyqVU-5" value="获取broker信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-1">
           <mxGeometry x="0.2" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l1tkgbyHN71c47mGyqVU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wF_96pwVOdmaeo8gTULH-42" target="wF_96pwVOdmaeo8gTULH-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="385" y="480" />
-              <mxPoint x="600" y="480" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l1tkgbyHN71c47mGyqVU-6" value="连接broker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-3">
-          <mxGeometry x="-0.0247" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
