@@ -66,7 +66,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l1tkgbyHN71c47mGyqVU-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-1">
+        <mxCell id="l1tkgbyHN71c47mGyqVU-5" value="获取broker信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-1">
           <mxGeometry x="0.2" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -77,6 +77,11 @@
               <mxPoint x="385" y="480" />
               <mxPoint x="600" y="480" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l1tkgbyHN71c47mGyqVU-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l1tkgbyHN71c47mGyqVU-3">
+          <mxGeometry x="-0.0247" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wF_96pwVOdmaeo8gTULH-42" value="client" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
