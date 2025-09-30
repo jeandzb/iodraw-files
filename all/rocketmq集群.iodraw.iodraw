@@ -117,9 +117,9 @@
           <mxGeometry x="240" y="760" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l1tkgbyHN71c47mGyqVU-12" value="模式配置持久化/configmap" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="555" y="650" width="75" height="30" as="geometry" />
+          <mxGeometry x="500" y="650" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l1tkgbyHN71c47mGyqVU-13" value="数据持久化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l1tkgbyHN71c47mGyqVU-13" value="数据持久化/pvc" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="376" y="940" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
