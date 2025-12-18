@@ -16,8 +16,8 @@
         <mxCell id="7gfjF_TocrhMe9NvMAa2-4" value="web-canary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="440" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gfjF_TocrhMe9NvMAa2-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="7gfjF_TocrhMe9NvMAa2-5" value="pl.alphesh.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
