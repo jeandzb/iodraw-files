@@ -22,7 +22,7 @@
         <mxCell id="7gfjF_TocrhMe9NvMAa2-6" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="210" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7gfjF_TocrhMe9NvMAa2-7" value="service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7gfjF_TocrhMe9NvMAa2-7" value="service-canary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="270" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
