@@ -25,7 +25,7 @@
         <mxCell id="7gfjF_TocrhMe9NvMAa2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gfjF_TocrhMe9NvMAa2-5" target="7gfjF_TocrhMe9NvMAa2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7gfjF_TocrhMe9NvMAa2-5" value="pl.alphesh.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7gfjF_TocrhMe9NvMAa2-5" value="api-pl.alphesh.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7gfjF_TocrhMe9NvMAa2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7gfjF_TocrhMe9NvMAa2-6" target="7gfjF_TocrhMe9NvMAa2-1">
@@ -69,7 +69,7 @@
         <mxCell id="7gfjF_TocrhMe9NvMAa2-10" value="api-pl.alphesh.com" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="400" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7gfjF_TocrhMe9NvMAa2-22" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7gfjF_TocrhMe9NvMAa2-22" value="服务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
