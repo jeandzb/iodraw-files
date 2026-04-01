@@ -116,9 +116,9 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-35" value="svc/configmap/..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="337.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-4" target="XfrfXz5S8cYoawtj0UMv-35">
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="605" y="330" as="targetPoint" />
+            <mxPoint x="605" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
