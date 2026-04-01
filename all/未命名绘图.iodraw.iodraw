@@ -88,10 +88,13 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-28" value="kubelet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-4">
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.334;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-4" target="XfrfXz5S8cYoawtj0UMv-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-27" target="XfrfXz5S8cYoawtj0UMv-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
