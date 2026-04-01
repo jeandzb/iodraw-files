@@ -11,7 +11,7 @@
           <mxGeometry x="240" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-3" value="docker hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
