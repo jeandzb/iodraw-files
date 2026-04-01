@@ -76,8 +76,14 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-22" value="CI" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-24" target="XfrfXz5S8cYoawtj0UMv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-24" value="devloper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-26" value="提交业务代码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="367.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
