@@ -68,7 +68,7 @@
           <mxGeometry x="280" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-21" value="检测到变化，更新部署资源" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="287.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="530" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-22" value="CI" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="60" height="30" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="195" y="367.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-27" value="deploy/sts/svc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="350" width="90" height="30" as="geometry" />
+          <mxGeometry x="460" y="337.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-28" value="kubelet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="410" width="60" height="30" as="geometry" />
