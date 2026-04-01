@@ -19,7 +19,7 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-4" value="argo-cd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="215" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-6" value="argo-cd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-6" value="业务pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
