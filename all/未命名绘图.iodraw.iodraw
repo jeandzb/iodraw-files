@@ -13,11 +13,11 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-3" value="docker hub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-4" value="argo-cd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="250" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-5" value="k8s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="225" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-4" value="argo-cd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
