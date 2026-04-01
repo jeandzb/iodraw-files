@@ -107,8 +107,11 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.073;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-27" target="XfrfXz5S8cYoawtj0UMv-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-33" value="触发构建" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-33" value="pull 镜像" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-34" value="提交业务代码" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="237.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
