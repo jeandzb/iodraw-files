@@ -85,6 +85,9 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-27" value="deploy/sts/svc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="350" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-28" value="kubelet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
