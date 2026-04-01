@@ -43,14 +43,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-4" target="XfrfXz5S8cYoawtj0UMv-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-4" value="argo-cd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="257.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-6" value="业务pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="327.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-12" value="node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="60" height="30" as="geometry" />
