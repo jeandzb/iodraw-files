@@ -10,6 +10,9 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-1" value="gitlab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-2" target="XfrfXz5S8cYoawtj0UMv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-2" value="maven" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="60" height="30" as="geometry" />
         </mxCell>
