@@ -28,6 +28,9 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-6" value="业务pod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
