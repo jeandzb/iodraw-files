@@ -59,7 +59,7 @@
           <mxGeometry x="155" y="327.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-15" value="推送镜像至docker 仓库" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="185" y="207.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="185" y="245" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-16" value="更新部署资源声明配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="410" width="70" height="30" as="geometry" />
