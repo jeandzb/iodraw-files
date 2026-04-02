@@ -70,8 +70,8 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-21" value="更新部署资源" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="290" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-22" value="CI" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-22" value="tokton" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="267.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XfrfXz5S8cYoawtj0UMv-24" target="XfrfXz5S8cYoawtj0UMv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
