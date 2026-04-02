@@ -43,6 +43,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="x1RKNDcmr6Xu31uq0B7P-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XfrfXz5S8cYoawtj0UMv-4" target="x1RKNDcmr6Xu31uq0B7P-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-4" value="argo-cd" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="257.5" width="60" height="30" as="geometry" />
         </mxCell>
@@ -120,6 +123,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="605" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x1RKNDcmr6Xu31uq0B7P-1" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="122.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
