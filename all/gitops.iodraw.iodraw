@@ -79,7 +79,7 @@
         <mxCell id="XfrfXz5S8cYoawtj0UMv-24" value="devloper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfrfXz5S8cYoawtj0UMv-26" value="触发构建" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XfrfXz5S8cYoawtj0UMv-26" value="触发构建,这里需要gitlab能访问ci才能完成webhook的触发" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="195" y="367.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-27" value="deploy/sts/..." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
