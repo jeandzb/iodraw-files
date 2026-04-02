@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-1" value="gitlab" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.314;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XfrfXz5S8cYoawtj0UMv-10" target="XfrfXz5S8cYoawtj0UMv-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -40,6 +40,8 @@
             <Array as="points">
               <mxPoint x="360" y="272" />
               <mxPoint x="360" y="425" />
+              <mxPoint x="320" y="425" />
+              <mxPoint x="320" y="575" />
             </Array>
           </mxGeometry>
         </mxCell>
