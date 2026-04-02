@@ -62,7 +62,7 @@
           <mxGeometry x="190" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-16" value="更新部署资源声明配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="350" width="70" height="30" as="geometry" />
+          <mxGeometry x="40" y="410" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfrfXz5S8cYoawtj0UMv-18" value="argo监听gitlab中部署资源声明配置" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="440" width="100" height="30" as="geometry" />
