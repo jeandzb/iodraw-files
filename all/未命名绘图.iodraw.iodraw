@@ -337,6 +337,9 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-119" value="mysql" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="524" y="690" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-120" value="registry" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="690" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
