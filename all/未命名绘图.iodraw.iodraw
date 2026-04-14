@@ -122,7 +122,7 @@
           <mxGeometry x="370" y="449.99999999999994" width="30" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="80" y="317" width="48" height="64" as="geometry" />
+          <mxGeometry x="530" y="720" width="28" height="37.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
