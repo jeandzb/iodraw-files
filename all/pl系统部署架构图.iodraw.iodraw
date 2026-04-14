@@ -218,7 +218,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-137" value="LB+WAF" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="280" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-138" value="internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-138" value="internet" style="shape=mxgraph.networks.pc;whiteSpace=wrap;html=1;fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="50" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-140" target="6U3XYzsUXenMv-cpiy4x-183">
