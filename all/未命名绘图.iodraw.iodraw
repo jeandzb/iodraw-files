@@ -37,9 +37,8 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-153">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="252" y="720" />
-              <mxPoint x="740" y="720" />
-              <mxPoint x="740" y="781" />
+              <mxPoint x="252" y="740" />
+              <mxPoint x="252" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -240,9 +239,6 @@
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-158" value="redis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221.55" y="810" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-159" value="image pull" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="606.24" y="720" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
