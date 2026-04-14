@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="230" width="140" height="630" as="geometry" />
+        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-135" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="644" height="630" as="geometry" />
         </mxCell>
@@ -251,9 +254,6 @@
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-164" value="健康有益" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="10" y="630" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="270" width="140" height="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
