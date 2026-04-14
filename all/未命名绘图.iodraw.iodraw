@@ -125,13 +125,13 @@
           <mxGeometry x="530" y="720" width="28" height="37.33" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-44" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="100" y="310" width="28.000000000000004" height="50" as="geometry" />
+          <mxGeometry x="40" y="280" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-45" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="100" y="380" width="28.000000000000004" height="50" as="geometry" />
+          <mxGeometry x="40" y="380" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-46" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="100" y="475" width="28.000000000000004" height="50" as="geometry" />
+          <mxGeometry x="40" y="475" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
