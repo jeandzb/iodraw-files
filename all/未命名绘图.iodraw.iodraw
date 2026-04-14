@@ -14,7 +14,7 @@
           <mxGeometry x="220" y="360" width="490" height="320" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
-          <mxGeometry x="413" y="190" width="50" height="50" as="geometry" />
+          <mxGeometry x="413" y="230" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Kubernetes.svg;" vertex="1" parent="1">
           <mxGeometry x="680" y="360" width="30" height="28.8" as="geometry" />
