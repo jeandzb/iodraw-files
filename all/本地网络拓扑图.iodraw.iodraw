@@ -7,9 +7,6 @@
         <mxCell id="pdmh6U9eybRSHW_eAHGf-1" value="internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="90" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pdmh6U9eybRSHW_eAHGf-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="50" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="pdmh6U9eybRSHW_eAHGf-4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="100" height="70" as="geometry" />
         </mxCell>
@@ -18,6 +15,9 @@
         </mxCell>
         <mxCell id="pdmh6U9eybRSHW_eAHGf-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pdmh6U9eybRSHW_eAHGf-7" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="329" y="310" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
