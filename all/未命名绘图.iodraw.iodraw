@@ -369,10 +369,11 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-120" value="registry" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="690" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-56">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=0.079;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="387" y="645" />
+              <mxPoint x="387" y="600" />
+              <mxPoint x="385" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
