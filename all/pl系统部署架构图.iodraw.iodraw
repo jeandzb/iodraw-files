@@ -230,7 +230,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.943;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-140" target="6U3XYzsUXenMv-cpiy4x-138">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="160" />
+              <mxPoint x="560" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -239,6 +239,9 @@
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-158" value="redis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221.55" y="810" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-167" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="207" y="120" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
