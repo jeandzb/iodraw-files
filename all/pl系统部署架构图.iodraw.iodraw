@@ -72,6 +72,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-2" target="6U3XYzsUXenMv-cpiy4x-176">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="285" />
+              <mxPoint x="274" y="120" />
+              <mxPoint x="60" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="414" y="260" width="50" height="50" as="geometry" />
         </mxCell>
