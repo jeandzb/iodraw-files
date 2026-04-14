@@ -271,8 +271,8 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-177" value="智谷天厨" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="490" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-178" value="优特" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="42.5" y="650" width="60" height="20" as="geometry" />
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-178" value="华宇工学院" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="62.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
