@@ -207,7 +207,7 @@
           <mxGeometry x="354" y="265" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-138" value="internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="100" width="70" height="50" as="geometry" />
+          <mxGeometry x="404" y="120" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-138" target="6U3XYzsUXenMv-cpiy4x-2">
           <mxGeometry relative="1" as="geometry" />
@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-146" value="DMZ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="754" y="200" width="50" height="20" as="geometry" />
+          <mxGeometry x="754" y="240" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
