@@ -72,9 +72,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-2" target="6U3XYzsUXenMv-cpiy4x-176">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-140" target="6U3XYzsUXenMv-cpiy4x-176">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="439" y="280" />
               <mxPoint x="439" y="160" />
               <mxPoint x="60" y="160" />
             </Array>
@@ -230,7 +231,7 @@
           <mxGeometry x="530" y="250" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-144" value="NAT" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="575" y="265" width="60" height="20" as="geometry" />
+          <mxGeometry x="571.8" y="275" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-146" value="DMZ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="230" width="44" height="20" as="geometry" />
