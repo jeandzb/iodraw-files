@@ -37,6 +37,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="580" />
+              <mxPoint x="390" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="490" height="320" as="geometry" />
         </mxCell>
