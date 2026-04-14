@@ -253,15 +253,6 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-170" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="730" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-138" target="6U3XYzsUXenMv-cpiy4x-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439.0000000000002" y="150" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="475" y="190" />
-              <mxPoint x="439" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-175" value="优特" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="42.5" y="340" width="60" height="20" as="geometry" />
         </mxCell>
@@ -283,6 +274,14 @@
             <Array as="points">
               <mxPoint x="70" y="170" />
               <mxPoint x="440" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-138" target="6U3XYzsUXenMv-cpiy4x-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439.0000000000002" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="475" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
