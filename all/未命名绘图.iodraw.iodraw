@@ -18,7 +18,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-56">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="418" y="700" />
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-55">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="499" y="700" />
@@ -261,7 +261,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-146" value="DMZ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="230" width="44" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.373;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-43">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.373;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="578" y="700" />
