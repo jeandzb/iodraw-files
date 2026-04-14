@@ -190,7 +190,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-56" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Monitor_Dashboard.svg;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="365" y="643.17" width="40" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-58" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;pointerEvents=1;shape=mxgraph.aws4.file_cache_on_premises_nfs_linked_datasets;" vertex="1" parent="1">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-58" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;pointerEvents=1;shape=mxgraph.aws4.file_cache_on_premises_nfs_linked_datasets;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="269" y="640.01" width="40" height="36" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-59" target="6U3XYzsUXenMv-cpiy4x-3">
@@ -372,8 +372,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="387" y="580" />
-              <mxPoint x="387" y="580" />
+              <mxPoint x="387" y="645" />
             </Array>
           </mxGeometry>
         </mxCell>
