@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6U3XYzsUXenMv-cpiy4x-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="700" height="520" as="geometry" />
+          <mxGeometry x="170" y="200" width="610" height="520" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="240" width="490" height="320" as="geometry" />
@@ -126,9 +126,6 @@
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-43" value="" style="image;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="520" y="640" width="40" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-51" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="110" y="552.5" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-55" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="434" y="640" width="40" height="36" as="geometry" />
