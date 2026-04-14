@@ -155,7 +155,10 @@
           <mxGeometry x="450" y="726.16" width="30" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-56" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Monitor_Dashboard.svg;" vertex="1" parent="1">
-          <mxGeometry x="350" y="748.31" width="44" height="40.89" as="geometry" />
+          <mxGeometry x="356" y="726.16" width="44" height="40.89" as="geometry" />
+        </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-57" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="722.99" width="32.88" height="43.84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
