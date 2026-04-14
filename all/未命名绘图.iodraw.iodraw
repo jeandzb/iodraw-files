@@ -152,7 +152,10 @@
           <mxGeometry x="40" y="630" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-53" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Log_Analytics_Query_Pack.svg;" vertex="1" parent="1">
-          <mxGeometry x="380" y="705" width="68" height="68" as="geometry" />
+          <mxGeometry x="410" y="735" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-54" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_management" vertex="1" parent="1">
+          <mxGeometry x="310" y="740" width="41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
