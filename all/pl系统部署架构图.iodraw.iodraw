@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-140" target="6U3XYzsUXenMv-cpiy4x-176">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-140" target="6U3XYzsUXenMv-cpiy4x-176">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="160" />
@@ -276,7 +276,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-179" value="健康有益" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="43" y="801.4" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-174">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-174">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="260" as="targetPoint" />
             <Array as="points">
@@ -289,7 +289,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="439.0000000000002" y="150" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="475" y="285" />
+              <mxPoint x="470" y="117" />
+              <mxPoint x="470" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
