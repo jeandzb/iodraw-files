@@ -304,7 +304,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-185" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="70" width="35" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-187" value="DMZ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-187" value="internet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="40" width="44" height="20" as="geometry" />
         </mxCell>
       </root>
