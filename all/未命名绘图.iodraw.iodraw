@@ -14,13 +14,18 @@
           <mxGeometry x="130" y="200" width="700" height="520" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-43">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="580" />
+              <mxPoint x="557" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="602" />
-              <mxPoint x="474" y="602" />
+              <mxPoint x="474" y="580" />
+              <mxPoint x="474" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
