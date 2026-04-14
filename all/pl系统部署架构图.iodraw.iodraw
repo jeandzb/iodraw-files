@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-185" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="595" y="75" width="25" height="40" as="geometry" />
+          <mxGeometry x="651.52" y="77.5" width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-187" value="internet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="40" width="44" height="20" as="geometry" />
@@ -305,7 +305,7 @@
           <mxGeometry x="480" y="77.5" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-189" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="1">
-          <mxGeometry x="307" y="87" width="50" height="26" as="geometry" />
+          <mxGeometry x="309.55" y="77.5" width="50" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
