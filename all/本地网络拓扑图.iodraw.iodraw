@@ -25,11 +25,14 @@
         <mxCell id="pdmh6U9eybRSHW_eAHGf-7" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
           <mxGeometry x="324" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pdmh6U9eybRSHW_eAHGf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pdmh6U9eybRSHW_eAHGf-7" target="pdmh6U9eybRSHW_eAHGf-5">
+        <mxCell id="pdmh6U9eybRSHW_eAHGf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="pdmh6U9eybRSHW_eAHGf-7" target="pdmh6U9eybRSHW_eAHGf-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdmh6U9eybRSHW_eAHGf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="pdmh6U9eybRSHW_eAHGf-7" target="pdmh6U9eybRSHW_eAHGf-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdmh6U9eybRSHW_eAHGf-12" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
