@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-146" value="DMZ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="200" width="60" height="20" as="geometry" />
+          <mxGeometry x="754" y="200" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
