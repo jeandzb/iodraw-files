@@ -340,7 +340,7 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-130" value="logs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="474" y="676" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-131" value="logs" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-131" value="moniter" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="394" y="676" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
