@@ -161,7 +161,7 @@
           <mxGeometry x="590" y="722.99" width="32.88" height="43.84" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-58" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.file_cache_on_premises_nfs_linked_datasets;" vertex="1" parent="1">
-          <mxGeometry x="222" y="723" width="78" height="78" as="geometry" />
+          <mxGeometry x="250" y="723" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
