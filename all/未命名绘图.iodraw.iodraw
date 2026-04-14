@@ -185,7 +185,7 @@
           <mxGeometry x="1560" y="250.54999999999998" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-55" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" vertex="1" parent="1">
-          <mxGeometry x="459" y="643.17" width="30" height="37.5" as="geometry" />
+          <mxGeometry x="459" y="643.17" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-56" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Azure_Monitor_Dashboard.svg;" vertex="1" parent="1">
           <mxGeometry x="365" y="643.17" width="44" height="40.89" as="geometry" />
