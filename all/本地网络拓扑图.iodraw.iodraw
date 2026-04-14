@@ -50,7 +50,7 @@
         <mxCell id="pdmh6U9eybRSHW_eAHGf-15" value="pc" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pdmh6U9eybRSHW_eAHGf-17" value="电信光冇" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pdmh6U9eybRSHW_eAHGf-17" value="电信光猫" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
