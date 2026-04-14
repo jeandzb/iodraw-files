@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-174">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="70" y="170" />
-              <mxPoint x="440" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13" y="230" width="120" height="630" as="geometry" />
         </mxCell>
@@ -266,7 +257,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="439.0000000000002" y="150" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="439" y="127" />
+              <mxPoint x="450" y="127" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -284,6 +275,15 @@
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-179" value="健康有益" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="43" y="801.4" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-174">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="170" />
+              <mxPoint x="440" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
