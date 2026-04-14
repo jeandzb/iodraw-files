@@ -246,10 +246,10 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-162" value="智谷天厨" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="10" y="414.4" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-163" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-163" value="优特" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="10" y="515" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-164" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-164" value="健康有益" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="10" y="630" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
