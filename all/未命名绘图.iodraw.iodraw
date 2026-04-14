@@ -298,9 +298,6 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-103" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1520" y="432.7" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-104" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="522.3" width="28.000000000000004" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-105" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="1460" y="432.7" width="28.000000000000004" height="50" as="geometry" />
         </mxCell>
