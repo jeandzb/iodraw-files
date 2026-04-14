@@ -289,13 +289,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" target="6U3XYzsUXenMv-cpiy4x-2">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-183" target="6U3XYzsUXenMv-cpiy4x-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="150" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="480" y="180" />
-              <mxPoint x="478" y="180" />
-              <mxPoint x="478" y="285" />
+              <mxPoint x="480" y="140" />
+              <mxPoint x="480" y="285" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -304,6 +303,9 @@
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-185" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="70" width="35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-187" value="DMZ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="40" width="44" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
