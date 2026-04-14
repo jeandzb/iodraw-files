@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="230" width="140" height="630" as="geometry" />
-        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-135" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="230" width="644" height="630" as="geometry" />
         </mxCell>
@@ -243,23 +240,16 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-158" value="redis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221.55" y="810" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-161" value="化宇工学院" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="10" y="300" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-162" value="智谷天厨" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="10" y="414.4" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-163" value="优特" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="10" y="515" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-164" value="健康有益" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
           <mxGeometry x="10" y="630" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-165" target="6U3XYzsUXenMv-cpiy4x-2">
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6U3XYzsUXenMv-cpiy4x-2">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="230" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="70" y="180" />
-              <mxPoint x="437" y="180" />
+              <mxPoint x="370" y="180" />
+              <mxPoint x="370" y="261" />
             </Array>
           </mxGeometry>
         </mxCell>
