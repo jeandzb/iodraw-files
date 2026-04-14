@@ -13,6 +13,9 @@
         <mxCell id="6U3XYzsUXenMv-cpiy4x-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="730" height="580" as="geometry" />
         </mxCell>
+        <mxCell id="6U3XYzsUXenMv-cpiy4x-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-3" target="6U3XYzsUXenMv-cpiy4x-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="490" height="320" as="geometry" />
         </mxCell>
@@ -332,7 +335,7 @@
           <mxGeometry x="610" y="419.2" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-117" value="ack-k8s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="240" width="60" height="20" as="geometry" />
+          <mxGeometry x="679" y="240" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
