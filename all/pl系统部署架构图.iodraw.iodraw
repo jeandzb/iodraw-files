@@ -205,7 +205,7 @@
           <mxGeometry x="354" y="265" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-138" value="internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="140" width="70" height="50" as="geometry" />
+          <mxGeometry x="469" y="80" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="6U3XYzsUXenMv-cpiy4x-138" target="6U3XYzsUXenMv-cpiy4x-2">
           <mxGeometry relative="1" as="geometry" />
@@ -239,19 +239,6 @@
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-158" value="redis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221.55" y="810" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-164" value="健康有益" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="10" y="630" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6U3XYzsUXenMv-cpiy4x-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6U3XYzsUXenMv-cpiy4x-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="230" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="70" y="180" />
-              <mxPoint x="370" y="180" />
-              <mxPoint x="370" y="261" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
