@@ -205,7 +205,7 @@
           <mxGeometry x="354" y="265" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-138" value="internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="469" y="80" width="70" height="50" as="geometry" />
+          <mxGeometry x="551.8" y="20" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-140" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.nat_gateway;" vertex="1" parent="1">
           <mxGeometry x="530" y="250" width="60" height="60" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="221.55" y="810" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6U3XYzsUXenMv-cpiy4x-167" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="1">
-          <mxGeometry x="207" y="120" width="65" height="60" as="geometry" />
+          <mxGeometry x="245" y="110" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
